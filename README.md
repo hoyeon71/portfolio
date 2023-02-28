@@ -1,6 +1,6 @@
 # 최호연 포트폴리오
 </br>
-![image](https://user-images.githubusercontent.com/124046794/221897493-c131a23a-3ec7-4f45-b194-9dfef34563ed.png)
+
 ![image](https://user-images.githubusercontent.com/124046794/221897576-4cb6df65-005d-4816-b91f-86c143d9b4a7.png)
 
 ## :pushpin: Intro
