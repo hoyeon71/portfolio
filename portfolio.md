@@ -24,7 +24,7 @@
 >[프로젝트 상세 설명](https://github.com/hoyeon71/FinalProejct) 참고
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/hoyeon71/SemiFinalProject)
+### 2. [JEJU_TRAVEL](https://github.com/hoyeon71/SemiFinalProject)
 >제주도의 여행지를 소개하고 함께 여행하고 싶은 사람모집  (팀 프로젝트)  
 >개발 기간: 2022 / 11 / 22 ~ 2022 / 12 / 20
 >  
@@ -35,7 +35,7 @@
 >[프로젝트 상세 설명](https://github.com/hoyeon71/SemiFinalProject) 참고
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/hoyeon71/ToyProject)
+### 3. [BOOK_CLUB](https://github.com/hoyeon71/ToyProject)
 >React를 이용하여 책 정보 조회가 가능한 책 소개사이트 구현  (팀 프로젝트) 
 >개발 기간: 2022 / 10 / 20 ~ 2022 / 10 / 31  
 >  
