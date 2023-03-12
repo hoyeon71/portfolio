@@ -3,8 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/124046794/221897766-bf8d1fb2-33e3-4c08-83a1-b577a1fc02a0.png)
 ![image](https://user-images.githubusercontent.com/124046794/221897576-4cb6df65-005d-4816-b91f-86c143d9b4a7.png)
-## :pushpin: 포트폴리오
-상단의 포트폴리오(https://github.com/hoyeon71/portfolio/blob/master/%EC%B5%9C%ED%98%B8%EC%97%B0_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) PDF 파일로 이동하시면 전체페이지를 확인할 수 있습니다.
+## :pushpin: [포트폴리오](https://github.com/hoyeon71/portfolio/blob/master/%EC%B5%9C%ED%98%B8%EC%97%B0_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+상단의 [포트폴리오](https://github.com/hoyeon71/portfolio/blob/master/%EC%B5%9C%ED%98%B8%EC%97%B0_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) PDF 파일로 이동하시면 전체페이지를 확인할 수 있습니다.
 
 ## :pushpin: Intro
 어떠한 상황에서도 분위기를 잘 읽을 수 있는 통찰력을 가지고 여러 관점에서 생각하여 위험요소와 변수를 최대한 줄일 수 있는 개발자가 되겠습니다.
